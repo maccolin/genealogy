@@ -5,3 +5,7 @@ Genealogy and Family Tree program with special attention to the needs of Clan Ma
 ## Contribute
 
 First, look through the issues. Find a point to join in and do so. 
+
+## License
+
+[License](LICENSE)
