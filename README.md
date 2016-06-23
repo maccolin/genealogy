@@ -4,7 +4,7 @@ Genealogy and Family Tree program with special attention to the needs of Clan Ma
 
 ## Contribute
 
-First, look through the issues. Find a point to join in and do so. 
+Look through the [issues](/maccolin/genealogy/issues) and chime in.
 
 ## License
 
