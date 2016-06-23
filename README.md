@@ -4,7 +4,7 @@ Genealogy and Family Tree program with special attention to the needs of Clan Ma
 
 ## Contribute
 
-Look through the [issues](/maccolin/genealogy/issues) and chime in.
+Look through the [issues](http://github.com/maccolin/genealogy/issues) and chime in.
 
 ## License
 
